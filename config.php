@@ -1,3 +1,3 @@
 <?php 
-  $base_url = "http://localhost/templated";
+  $base_url = "http://localhost/sukakode";
 ?>
